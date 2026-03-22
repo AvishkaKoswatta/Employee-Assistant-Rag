@@ -1,0 +1,350 @@
+[
+  {
+    "id": "welcome_1",
+    "section": "Welcome",
+    "title": "Purpose of Handbook",
+    "content": "This handbook introduces company values, expectations, and responsibilities. It is not a contract or guarantee of employment. It serves as a guideline for workplace behavior. Employees are expected to follow policies and consult the handbook when needed."
+  },
+  {
+    "id": "employment_1",
+    "section": "Employment Basics",
+    "title": "Employment Contract Types",
+    "content": "Full-time employees work at least 30 hours per week or 130 hours per month. Part-time employees work fewer than 30 hours per week. Contracts may be temporary or indefinite. Full-time employees with indefinite contracts receive full benefits."
+  },
+  {
+    "id": "employment_2",
+    "section": "Employment Basics",
+    "title": "Equal Opportunity Employment",
+    "content": "The company does not tolerate discrimination based on gender, age, race, religion, disability, or other protected characteristics. Hiring and promotions are based on merit. Employees must report discrimination to HR. Retaliation is prohibited and violations lead to disciplinary action."
+  },
+  {
+    "id": "employment_3",
+    "section": "Employment Basics",
+    "title": "Recruitment Process",
+    "content": "Hiring steps include identifying needs, posting jobs, reviewing applications, interviewing candidates, conducting background checks, selecting candidates, and making offers. The process must be fair and transparent."
+  },
+  {
+    "id": "employment_4",
+    "section": "Employment Basics",
+    "title": "Background Checks",
+    "content": "Background checks are conducted only for finalists. Candidate consent is required and legal guidelines must be followed."
+  },
+  {
+    "id": "employment_5",
+    "section": "Employment Basics",
+    "title": "Referrals",
+    "content": "Employees can refer candidates and receive rewards if hired. Rewards are paid within one month. There is no limit to referrals. Candidates must not have applied within the last year and must be hired as permanent employees."
+  },
+  {
+    "id": "employment_6",
+    "section": "Employment Basics",
+    "title": "Attendance",
+    "content": "Employees must attend scheduled working hours. Emergencies must be reported as soon as possible. Exceptions may be made for serious situations."
+  },
+  {
+    "id": "policy_1",
+    "section": "Workplace Policies",
+    "title": "Confidentiality and Data Protection",
+    "content": "Confidential data includes employee records, financial data, customer data, and business strategies. Employees must secure data, avoid unauthorized sharing, and not use it for personal benefit. Violations may result in termination."
+  },
+  {
+    "id": "policy_2",
+    "section": "Workplace Policies",
+    "title": "Harassment Policy",
+    "content": "Harassment includes offensive comments, rumors, unwanted advances, and sabotage. Employees can report to offenders, managers, or HR. Sexual harassment results in termination."
+  },
+  {
+    "id": "policy_3",
+    "section": "Workplace Policies",
+    "title": "Workplace Violence",
+    "content": "Violence includes physical assault, threats, and property damage. Employees must report incidents to HR or security. Violations may lead to termination and legal action."
+  },
+  {
+    "id": "policy_4",
+    "section": "Workplace Policies",
+    "title": "Workplace Safety",
+    "content": "The company ensures safety through training, protective equipment, risk assessments, and emergency preparedness including evacuation plans and fire safety systems."
+  },
+  {
+    "id": "policy_5",
+    "section": "Workplace Policies",
+    "title": "Smoking Policy",
+    "content": "Smoking is only allowed in designated areas. Indoor smoking is prohibited."
+  },
+  {
+    "id": "policy_6",
+    "section": "Workplace Policies",
+    "title": "Drug-Free Workplace",
+    "content": "Employees must not use or bring illegal drugs to the workplace. Alcohol is prohibited during work hours but allowed in moderation at company events."
+  },
+  {
+    "id": "conduct_1",
+    "section": "Code of Conduct",
+    "title": "Dress Code",
+    "content": "Employees must dress professionally according to their role. Clean and appropriate attire is required. Cultural and religious attire is respected."
+  },
+  {
+    "id": "conduct_2",
+    "section": "Code of Conduct",
+    "title": "Internet Usage",
+    "content": "Limited personal use is allowed. Employees must not download illegal content, share confidential information, or visit unsafe websites."
+  },
+  {
+    "id": "conduct_3",
+    "section": "Code of Conduct",
+    "title": "Cell Phone Usage",
+    "content": "Phones should not disrupt work. Avoid excessive use, do not use while driving company vehicles, and do not record confidential information."
+  },
+  {
+    "id": "conduct_4",
+    "section": "Code of Conduct",
+    "title": "Corporate Email",
+    "content": "Email is primarily for work but limited personal use is allowed. Employees must avoid spam, offensive messages, and unauthorized communications."
+  },
+  {
+    "id": "conduct_5",
+    "section": "Code of Conduct",
+    "title": "Social Media",
+    "content": "Employees must not share confidential information or harmful content. Personal opinions must not represent the company. Professional behavior is required."
+  },
+  {
+    "id": "conduct_6",
+    "section": "Code of Conduct",
+    "title": "Conflict of Interest",
+    "content": "Employees must avoid situations where personal interests conflict with company responsibilities. Report conflicts to HR."
+  },
+  {
+    "id": "conduct_7",
+    "section": "Code of Conduct",
+    "title": "Employee Relationships",
+    "content": "Professional behavior is required. Managers must not have relationships with direct reports. Favoritism is prohibited."
+  },
+  {
+    "id": "comp_1",
+    "section": "Compensation",
+    "title": "Overtime",
+    "content": "Overtime is compensated according to law and must be approved by supervisors."
+  },
+  {
+    "id": "comp_2",
+    "section": "Compensation",
+    "title": "Payroll",
+    "content": "Employees are paid monthly or bi-monthly. Accurate time tracking is required for correct payment."
+  },
+  {
+    "id": "comp_3",
+    "section": "Compensation",
+    "title": "Performance Management",
+    "content": "Includes regular reviews, feedback, and development planning. No forced ranking is used."
+  },
+  {
+    "id": "comp_4",
+    "section": "Compensation",
+    "title": "Training and Development",
+    "content": "Employees receive an annual budget for learning. Includes courses, books, conferences, and training programs."
+  },
+  {
+    "id": "benefits_1",
+    "section": "Benefits",
+    "title": "Health Benefits",
+    "content": "Employees receive health insurance and access to wellness programs."
+  },
+  {
+    "id": "benefits_2",
+    "section": "Benefits",
+    "title": "Work From Home",
+    "content": "Employees may work from home one day per week with approval. Advance notice is required."
+  },
+  {
+    "id": "benefits_3",
+    "section": "Benefits",
+    "title": "Remote Work",
+    "content": "Employees may work remotely for up to two weeks per year with approval. Must follow company policies."
+  },
+  {
+    "id": "time_1",
+    "section": "Time and Leave",
+    "title": "Working Hours",
+    "content": "Working hours are 9 AM to 7 PM with flexible start between 9–11 AM."
+  },
+  {
+    "id": "time_2",
+    "section": "Time and Leave",
+    "title": "Paid Time Off",
+    "content": "Employees receive 20 days PTO annually. PTO accrues monthly and requires approval before use."
+  },
+  {
+    "id": "time_3",
+    "section": "Time and Leave",
+    "title": "Sick Leave",
+    "content": "Employees receive one week of paid sick leave. Medical documentation may be required for extended absences."
+  },
+  {
+    "id": "time_4",
+    "section": "Time and Leave",
+    "title": "Parental Leave",
+    "content": "Employees receive three months of paid parental leave. Advance notice is required."
+  },
+  {
+    "id": "exit_1",
+    "section": "Exit Policy",
+    "title": "Progressive Discipline",
+    "content": "Steps include verbal warning, meetings, reprimand, penalties, and termination depending on severity."
+  },
+  {
+    "id": "exit_2",
+    "section": "Exit Policy",
+    "title": "Resignation",
+    "content": "Employees are encouraged to give two weeks notice. Absence for three consecutive days without notice is treated as resignation."
+  },
+  {
+    "id": "exit_3",
+    "section": "Exit Policy",
+    "title": "Termination",
+    "content": "Employees may be terminated for cause or without cause. Legal procedures and compensation rules apply."
+  },
+  {
+    "id": "general_1",
+    "section": "General",
+    "title": "Policy Updates",
+    "content": "The handbook is reviewed annually. Employees are encouraged to provide feedback."
+  },
+  {
+    "id": "general_2",
+    "section": "General",
+    "title": "Employee Acknowledgement",
+    "content": "Employees must sign acknowledgment confirming they have read and agree to follow the handbook."
+  },
+    {
+    "id": "it_1",
+    "section": "IT Policies",
+    "title": "Password and Account Security",
+    "content": "Employees must use strong passwords and update them regularly. Passwords must not be shared. Multi-factor authentication should be enabled where available. Suspicious login activity must be reported immediately to IT support."
+  },
+  {
+    "id": "it_2",
+    "section": "IT Policies",
+    "title": "Acceptable Software Usage",
+    "content": "Only authorized software may be installed on company devices. Employees must not download pirated or unlicensed software. Requests for new tools must go through IT approval."
+  },
+  {
+    "id": "it_3",
+    "section": "IT Policies",
+    "title": "Data Backup and Storage",
+    "content": "Employees must store work data in approved company systems such as cloud storage or internal servers. Local storage should be avoided. Regular backups are handled by IT, but employees must ensure files are saved in designated locations."
+  },
+  {
+    "id": "leave_1",
+    "section": "Time and Leave",
+    "title": "Leave Request Procedure",
+    "content": "Employees must submit leave requests through the HR system at least 3 days in advance for planned leave. Emergency leave must be communicated to the manager as soon as possible. Approval from the direct supervisor is required."
+  },
+  {
+    "id": "leave_2",
+    "section": "Time and Leave",
+    "title": "Unpaid Leave",
+    "content": "Employees may request unpaid leave if paid leave is exhausted. Approval depends on business needs and management discretion."
+  },
+  {
+    "id": "leave_3",
+    "section": "Time and Leave",
+    "title": "Late Arrival Policy",
+    "content": "Employees arriving late must inform their manager. Repeated lateness may result in disciplinary action. Flexible working hours may apply depending on the role."
+  },
+  {
+    "id": "perf_1",
+    "section": "Performance",
+    "title": "Probation Period",
+    "content": "New employees undergo a probation period, typically lasting 3 to 6 months. Performance is evaluated during this time to determine confirmation of employment."
+  },
+  {
+    "id": "perf_2",
+    "section": "Performance",
+    "title": "Promotion Policy",
+    "content": "Promotions are based on performance, skills, and business needs. Employees may apply for internal roles or be nominated by management."
+  },
+  {
+    "id": "perf_3",
+    "section": "Performance",
+    "title": "Performance Improvement Plan",
+    "content": "Employees with performance issues may be placed on a Performance Improvement Plan (PIP). The plan outlines goals, timelines, and expected improvements."
+  },
+  {
+    "id": "travel_1",
+    "section": "Travel",
+    "title": "Business Travel Policy",
+    "content": "Employees must obtain approval before booking business travel. Travel arrangements should follow company guidelines. Expenses must be reasonable and necessary."
+  },
+  {
+    "id": "travel_2",
+    "section": "Travel",
+    "title": "Travel Reimbursement",
+    "content": "Employees must submit receipts for reimbursement within a specified time frame. Only approved expenses will be reimbursed."
+  },
+  {
+    "id": "security_1",
+    "section": "Security",
+    "title": "Access Control",
+    "content": "Employees are granted access only to systems necessary for their role. Sharing access credentials is strictly prohibited."
+  },
+  {
+    "id": "security_2",
+    "section": "Security",
+    "title": "Incident Reporting",
+    "content": "Security incidents such as data breaches, lost devices, or unauthorized access must be reported immediately to IT or security teams."
+  },
+  {
+    "id": "communication_1",
+    "section": "Communication",
+    "title": "Internal Communication Tools",
+    "content": "Employees must use approved communication tools such as email, chat systems, or project management platforms for official communication."
+  },
+  {
+    "id": "communication_2",
+    "section": "Communication",
+    "title": "Meeting Etiquette",
+    "content": "Employees must attend meetings on time, come prepared, and participate actively. Virtual meetings should follow proper etiquette including muting when not speaking."
+  },
+  {
+    "id": "grievance_1",
+    "section": "Grievance",
+    "title": "Grievance Handling Procedure",
+    "content": "Employees can raise workplace concerns through HR or management. All complaints will be handled confidentially and investigated fairly."
+  },
+  {
+    "id": "grievance_2",
+    "section": "Grievance",
+    "title": "Whistleblower Policy",
+    "content": "Employees can report unethical or illegal activities without fear of retaliation. Reports may be made anonymously where allowed."
+  },
+  {
+    "id": "onboarding_1",
+    "section": "Onboarding",
+    "title": "New Employee Onboarding",
+    "content": "New employees receive orientation, system access, and training during onboarding. They are introduced to team members and company policies."
+  },
+  {
+    "id": "offboarding_1",
+    "section": "Exit Policy",
+    "title": "Offboarding Procedure",
+    "content": "Employees must return company property, complete knowledge transfer, and settle outstanding obligations before leaving the company."
+  },
+  {
+    "id": "ethics_1",
+    "section": "Ethics",
+    "title": "Code of Ethics",
+    "content": "Employees must act with integrity, honesty, and professionalism. Ethical behavior is expected in all business interactions."
+  },
+  {
+    "id": "ethics_2",
+    "section": "Ethics",
+    "title": "Gifts and Hospitality",
+    "content": "Employees must not accept gifts or benefits that could influence business decisions. Small tokens may be acceptable if approved."
+  },
+  {
+    "id": "ethics_3",
+    "section": "Ethics",
+    "title": "Anti-Corruption Policy",
+    "content": "Employees must not engage in bribery or corrupt practices. All business dealings must be transparent and ethical."
+  }
+]

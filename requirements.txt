@@ -1,0 +1,9 @@
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+boto3
+dotenv
+accelerate
+langchain-pinecone
+pinecone-client
