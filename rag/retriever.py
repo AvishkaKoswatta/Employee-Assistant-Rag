@@ -36,7 +36,7 @@
 
 
 
-
+# type: ignore
 # retriever.py
 from langchain_pinecone import PineconeVectorStore
 from langchain_huggingface import HuggingFaceEmbeddings
