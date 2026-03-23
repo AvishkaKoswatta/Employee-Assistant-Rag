@@ -7,3 +7,5 @@ dotenv
 accelerate
 langchain-pinecone
 pinecone-client
+fastapi
+uvicorn
